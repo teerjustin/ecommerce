@@ -5,6 +5,7 @@ import { ShoppingCart } from '@material-ui/icons';
 import useStyles from './Style'
 
 const Product = ({ product }) => {
+    
     const classes = useStyles();
 
     return (
