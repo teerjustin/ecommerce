@@ -10,7 +10,7 @@ const products = [
 
 ]
 
-const Products = ({ product }) => {
+const Products = ({ products }) => {
     const classes = useStyles();
 
     return (
